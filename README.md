@@ -11,10 +11,15 @@
 ```bash
 python3.13 -m venv venv
 source venv/bin/activate  # En Windows: venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r requirements.txt ´´´
+
+
+
 
 ```bash
 
 xlwings addin install
+
+´´´´
 
 
